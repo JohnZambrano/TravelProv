@@ -1,0 +1,59 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #efefef;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 30px;
+    text-shadow: 2px 4px 4px black;
+    background-color: #364552;
+    background-size: 300px 300px;
+    width: 1350px;
+    height: 70px;
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 30px;
+    text-shadow: 2px 4px 4px black;
+    background-color: #364552;
+    background-size: 300px 300px;
+    width: 1350px;
+    height: 70px;
+    text-align: center;
+}
+
+#section1 {
+    transition: box-shadow 0.3s ease;
+    background-color: #fff;
+    margin: 2 rem 0;
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+    cursor: pointer;
+}
+
+#imagen {
+    text-align: left;
+    border-radius: 5rem;
+}
+
+h3 {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 20px;
+    text-align: right;
+}
+
+h4 {
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 20px;
+}
